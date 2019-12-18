@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bitncolor">#fff</color>
+    <color name="colorwhite">#F8F7F7</color>
+    <color name="colorgray">#797070</color>
+    <color name="colororange">#E75207</color>
+    <color name="colorgold">#D58817</color>
+    <color name="colorlightgray">#F7F3ED</color>
+</resources>
